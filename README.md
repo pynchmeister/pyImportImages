@@ -1,11 +1,7 @@
-# pyImportImages
-Tutorial: How to Import Images using the Python library PIL, Google Colab, and more!
+# Tutorial
+How to import images using PIL, Google Colab, and more Python mechanisms!
 
 TODO: 
 
-  -Write-up
-  -share with April & SOAI
   -Google Colab image upload
-
-
-** Image Import with Pandas
+  -Pandas
