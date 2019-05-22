@@ -1,5 +1,5 @@
 # Tutorial
-How to import images using PIL, Google Colab, and more Python mechanisms!
+How to import images using PIL (Python Imaging Library), Google Colab, and more Python mechanisms!
 
   
 # References
