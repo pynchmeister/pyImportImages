@@ -1,7 +1,8 @@
 # Tutorial
 How to import images using PIL, Google Colab, and more Python mechanisms!
 
-TODO: 
+  
+# References
 
-  -Google Colab image upload
-  -Pandas
+
+https://www.kaggle.com/vanausloos/how-to-read-images-in-python
